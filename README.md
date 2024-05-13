@@ -1,6 +1,6 @@
 # YoutubeClone
 
-##Functional Requirements
+## Functional Requirements
 We will be implementing the following features in this tutorial series, where we will cover each feature in a different part:
 
 1. User can Upload new Videos
